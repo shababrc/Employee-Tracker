@@ -46,8 +46,10 @@ This is built on promises and async/await. We call the functions above, and use 
 
 
 ## Link to Github Repository
+https://github.com/shababrc/Employee-Tracker 
 
 ## Link to Walkthrough Video
+
 
 ## Credits
 Big thanks to the rest of the bootcamp class for their help, as well as Bryan and Shawn for their expertise. Thanks to tutor Erik Hirsch for helping me get started, and as well as Irina Kudosova, and Jehyun Jung.
